@@ -32,6 +32,22 @@ Welcome to the **Deep Learning Projects** repository! This repository contains a
   - Real-time inference on images and videos.
   - Metrics analysis to assess model performance.
 
+### 4. **ANN Churn Prediction**
+- **Description**: A project using an Artificial Neural Network (ANN) to predict customer churn, with insights to help businesses improve retention strategies.
+- **Notebook**: [ANN Churn Prediction](https://github.com/MuhammadMasoodAlam/Deep-Learning/blob/main/ANN%20Churn%20Prediction.ipynb)
+- **Key Features**:
+- Preprocessing customer data.
+- Training a multi-layer perceptron ANN.
+- Performance metrics and analysis.
+
+### 5. **Intel Image Segmentation**
+- **Description**: A project using a pretrained model for image segmentation to classify scenes into categories like buildings, forest, glacier, mountain, sea, and street.
+- **Notebook**: [Intel Image Segmentation](https://github.com/MuhammadMasoodAlam/Deep-Learning/blob/main/Pretrained%20model%20Image%20Segmentation.ipynb)
+- **Key Features**:
+- Using a pretrained deep learning model.
+- Scene classification with high accuracy.
+- Applications in geographic and urban planning.
+
 ---
 
 ## Requirements
